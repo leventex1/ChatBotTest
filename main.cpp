@@ -5,6 +5,9 @@
 
 int main() {
 
+	std::cout << "Hi this is Sandor the Chat bot!" << std::endl;
+	std::cout << "To exit enter \"Exit!\"" << std::endl;
+
 	DataSet dataSet("dataset.txt");
 
 	std::string input;
